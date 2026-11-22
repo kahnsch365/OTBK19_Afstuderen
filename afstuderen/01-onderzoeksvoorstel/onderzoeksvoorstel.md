@@ -53,8 +53,7 @@
 SAP Business One. Het onderzoek richt zich op het SAP Business One-team (6 consultants) en het projectproces dat dit
 team uitvoert: van de overdracht door sales, via vooranalyse, inrichting, datamigratie, testen en go-live, tot de
 overdracht naar nazorg. Directie, sales en support zijn betrokken als stakeholders. Het Jeeves-team en het
-verkoopproces vallen buiten het onderzoek. Een organogram met het onderzoeksgebied is opgenomen als bijlage
-[INVULLEN: organogram toevoegen als bijlage].
+verkoopproces vallen buiten het onderzoek. Een organogram met het onderzoeksgebied is opgenomen in bijlage 1.
 
 **Technische omgeving.** Een ERP-systeem is een technisch informatiesysteem waarin de primaire processen van een
 bedrijf worden ingericht: inkoop, voorraad, productie, verkoop en financiën. De klanten van JIS zijn vooral productie-
@@ -218,3 +217,10 @@ heeft de inhoud gecontroleerd, aangevuld en is verantwoordelijk voor de tekst. G
 bijgehouden.
 
 Anthropic. (2026). *Claude* [Groot taalmodel]. https://claude.ai
+
+## Bijlage 1 – Organogram JIS Nederland
+
+![Organogram JIS Nederland](bijlage-organogram.png)
+
+*Figuur 1.* Organogram van JIS Nederland (16 medewerkers) met het onderzoeksgebied: het projectproces van het SAP
+Business One-team. Eigen weergave (2026).

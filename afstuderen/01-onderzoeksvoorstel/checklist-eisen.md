@@ -48,7 +48,7 @@ Toetsing van [`onderzoeksvoorstel.md`](onderzoeksvoorstel.md) / `onderzoeksvoors
 | Toetsvraag (formulier) | Waar aangetoond | Status |
 |---|---|---|
 | TBK-passend onderzoek met als kern procesoptimalisatie of -(her)ontwerp | 3a (laatste zin); 3d (DMADV: ontwerp van een nieuw proces) | ✅ |
-| Technische omgeving ("toon dat goed aan!") | 2 (Organisatie: technische omgeving); 3a (intro); 3b (technische omgeving) | ✅ (organogram als bijlage: ⚠️) |
+| Technische omgeving ("toon dat goed aan!") | 2 (Organisatie: technische omgeving, organogram in bijlage 1); 3a (intro); 3b (technische omgeving) | ✅ |
 | Probleemstelling beantwoordt de 6W | 3a (zes vetgedrukte W-vragen) | ✅ |
 | Multidisciplinair | 3b | ✅ |
 | Innovatief | 3b | ✅ |

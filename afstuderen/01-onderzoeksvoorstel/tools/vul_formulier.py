@@ -9,7 +9,8 @@ Gebruik (vanuit de repo-root of vanuit deze map):
 - Uitvoer: afstuderen/01-onderzoeksvoorstel/onderzoeksvoorstel.docx
 
 Kopjes en instructieteksten van het formulier blijven staan; de antwoorden komen direct
-na de instructie van elk onderdeel. Pas de tekst dus aan in de .md en draai dit script opnieuw.
+na de instructie van elk onderdeel. Secties "## Bijlage …" komen op een eigen pagina achteraan
+(afbeeldingen via ![..](bestand.png)). Pas de tekst dus aan in de .md en draai dit script opnieuw.
 Vereist: python-docx (pip install python-docx).
 """
 from __future__ import annotations
@@ -369,6 +370,28 @@ def main() -> None:
             raise SystemExit(f"Instructie van {code} niet gevonden")
         verwijder_lege_na(anker)
         schrijf_blokken(cel, anker, sectie(secties, code + "."))
+
+    # Bijlagen (## Bijlage …): nieuwe pagina met titel, afbeelding en onderschrift
+    body = doc.element.body
+    for kop, tekst in secties.items():
+        if not kop.startswith("Bijlage"):
+            continue
+        titel = maak_p(f"**{kop}**", sz=20, na=160)
+        br = OxmlElement("w:br")
+        br.set(qn("w:type"), "page")
+        r = OxmlElement("w:r")
+        r.append(br)
+        titel.insert(1, r)  # na de pPr
+        body.sectPr.addprevious(titel)
+        for soort, inhoud in blokken(tekst):
+            beeld = re.fullmatch(r"!\[[^\]]*\]\(([^)]+)\)", inhoud) if soort == "para" else None
+            if beeld:
+                pad = MAP / beeld.group(1)
+                if not pad.exists():
+                    raise SystemExit(f"Afbeelding {pad.name} ontbreekt; draai eerst tools/maak_organogram.py")
+                doc.add_paragraph().add_run().add_picture(str(pad), width=Cm(16))
+            elif soort == "para":
+                body.sectPr.addprevious(maak_p(inhoud, sz=SZ_TABEL))
 
     doc.save(str(UIT))
     print(f"Geschreven: {UIT.relative_to(ROOT)}")
