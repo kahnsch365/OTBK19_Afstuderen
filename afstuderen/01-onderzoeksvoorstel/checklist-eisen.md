@@ -15,7 +15,7 @@ Toetsing van [`onderzoeksvoorstel.md`](onderzoeksvoorstel.md) / `onderzoeksvoors
 | 2d | Hoge eisen aan taakuitvoering en resultaat | 3c (SMART-doel: gevalideerd ontwerp, KPI's met streefwaarden, kosten-baten, implementatieplan) | ✅ |
 | 2e | Dilemma's kenmerkend voor het beroep | 3d (eigen team onderzoeken, objectiviteit); 3b (AI tegenover vertrouwelijkheid klantdata); standaardisatie tegenover de professionele autonomie van consultants (3b, multidisciplinair) | ✅ |
 | 2f | Opdrachtgever en organisatie hebben groot belang bij de resultaten | 3a (Waarom: niet-factureerbare uren, voorspelbaarheid, kwetsbaarheid, groei) | ✅ |
-| 2g | Beperkte looptijd | 3c (18 weken, uiterlijk [einddatum]); 3d (fasering) | ✅ |
+| 2g | Beperkte looptijd | 3c (18 weken, uiterlijk 25 juni 2027); 3d (fasering) | ✅ |
 | 2h | Verschillende partijen met mogelijk verschillende belangen | 3a (Wie: directie, consultants, sales, support, klanten); 3d (macht-belangmatrix) | ✅ |
 | 3 | Grote mate van zelfstandigheid en zelfsturing | 3d (één student, eigen planning en logboek) | ✅ |
 
