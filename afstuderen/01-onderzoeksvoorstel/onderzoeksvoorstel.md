@@ -14,7 +14,7 @@
 | Naam student & studentnummer | Koen [INVULLEN: achternaam], [INVULLEN: studentnummer] |
 | Telefoonnummer | [INVULLEN: telefoonnummer] |
 | Opleiding | SPS TBK Enschede |
-| Afstudeerperiode | van: 1 februari 2027 t/m: 25 juni 2027 |
+| Afstudeerperiode | van: 1 januari 2027 t/m: 31 mei 2027 |
 | Propedeuse behaald | ja |
 | Max. 20 studiepunten openstaan | [INVULLEN: ja / nee, controleren in het studievoortgangsoverzicht] |
 | Openstaande vakken | [INVULLEN: openstaande vakken en verwachte resultaatdatum, of "geen"] |
@@ -134,7 +134,7 @@ met minder urenoverschrijding, minder uitstel van go-live en minder rework na go
 kwaliteitsverlies.
 
 **Onderzoeksdoel (intern doel).** Het uitvoeren van een ontwerpgericht onderzoek in opdracht van de directie van JIS
-Nederland, om binnen de afstudeerperiode van 18 weken (uiterlijk 25 juni 2027) een gestandaardiseerde,
+Nederland, om binnen de afstudeerperiode van 18 weken (uiterlijk 31 mei 2027) een gestandaardiseerde,
 schaalbare en door AI ondersteunde projectmethode voor implementaties en add-ons van het SAP Business One-team te
 ontwerpen en te valideren. De methode bestaat uit een
 kernproces met een lichte variant voor add-ons, vaste deliverables voor vastlegging en overdracht, 3–5 stuur-KPI's met
@@ -144,7 +144,7 @@ structureel kan terugdringen. De streefwaarden van de KPI's volgen uit de nulmet
 
 **Hoofdvraag.** Hoe moet een gestandaardiseerde, schaalbare en door AI ondersteunde projectmethode voor implementaties
 en add-ons van het SAP Business One-team van JIS Nederland eruitzien, zodat de uren- en planningsoverschrijdingen en
-het rework na go-live afnemen, en hoe kan deze vóór 25 juni 2027 als gevalideerd ontwerp met implementatieplan
+het rework na go-live afnemen, en hoe kan deze vóór 31 mei 2027 als gevalideerd ontwerp met implementatieplan
 worden opgeleverd?
 
 **Deelvragen.** Elke deelvraag hoort bij een fase van DMADV en bouwt voort op de vorige.
