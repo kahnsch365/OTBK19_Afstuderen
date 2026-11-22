@@ -148,7 +148,7 @@ add-ons, overschrijdingen, rework, periode) blijven staan.*
 ## 6. Open acties voor Koen (vóór indienen)
 1. Het idee bespreken met de directeur (probleemeigenaar) en de beoogde bedrijfsbegeleider, met `gesprek-opdrachtgever.md`. Het formulier adviseert minimaal twee vertegenwoordigers van JIS.
 2. De quickscan invullen (`quickscan-data.md`) en de cijfers in 3a verwerken.
-3. In Brightspace de exacte deadline controleren (week 4 van het kwartiel vóór de start) en kijken of er een nieuwere versie van het formulier is dan die van 2021-2022.
+3. In Brightspace de exacte deadline controleren (week 4 van het kwartiel vóór de start). Het formulier 2021-2022 is de actuele versie (bevestigd).
 4. **Bewijs dat Koen aan de toelatingseisen voldoet** klaarzetten: dit moet samen met het voorstel worden ingeleverd (handleiding H2).
 5. De `[INVULLEN: …]`-velden aanvullen.
 

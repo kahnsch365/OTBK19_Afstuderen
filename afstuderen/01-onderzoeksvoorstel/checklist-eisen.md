@@ -68,4 +68,4 @@ Toetsing van [`onderzoeksvoorstel.md`](onderzoeksvoorstel.md) / `onderzoeksvoors
 | APA-verwijzingen en bronnenlijst | 3d (Bronnen) | ✅ (Koen: bronnen nalopen) |
 | Verantwoording AI-gebruik | 3d (Verantwoording AI-gebruik) | ✅ |
 | Alle `[INVULLEN: …]`-velden gevuld | Datum, onderdelen 1, 2, 3a, 3c | ⚠️ |
-| Deadline (week 4 van het kwartiel vóór de start) en nieuwste formulierversie gecontroleerd in Brightspace | – | ⚠️ |
+| Deadline (week 4 van het kwartiel vóór de start) gecontroleerd in Brightspace; formulier 2021-2022 is de actuele versie (bevestigd door Koen) | – | ⚠️ deadline |

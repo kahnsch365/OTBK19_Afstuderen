@@ -26,7 +26,7 @@ python3 afstuderen/01-onderzoeksvoorstel/tools/vul_formulier.py
 | Gesprek met directeur en beoogde bedrijfsbegeleider | zo snel mogelijk | ⬜ |
 | Quickscan invullen en cijfers in 3a verwerken | na het gesprek (toegang tot data) | ⬜ |
 | `[INVULLEN: …]`-velden aanvullen, organogram als bijlage, `.docx` opnieuw genereren | vóór indienen | ⬜ |
-| Deadline en nieuwste formulierversie controleren in Brightspace | vóór indienen | ⬜ |
+| Deadline controleren in Brightspace (formulier 2021-2022 is actueel) | vóór indienen | ⬜ |
 | Bewijs toelatingseisen klaarzetten | vóór indienen | ⬜ |
 | Voorstel + bewijs indienen in Brightspace | uiterlijk week 4 van het kwartiel vóór de start | ⬜ |
 | GO op het voorstel → onderzoeksplan schrijven (`02-onderzoeksplan/`) | start afstudeerperiode | ⬜ |
