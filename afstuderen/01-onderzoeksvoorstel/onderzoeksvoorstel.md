@@ -25,7 +25,7 @@
 |---|---|
 | Naam bedrijf | JIS Nederland |
 | Naam opdrachtgever | [INVULLEN: naam], directeur/eigenaar JIS Nederland |
-| Bedrijfssoort/sector | ICT-dienstverlening: implementatie van ERP-systemen (Jeeves ERP, SAP Business One) |
+| Bedrijfssoort/sector | ICT-dienstverlening: verkoop en implementatie van ERP-systemen (Jeeves ERP, SAP Business One) en CRM (SuperOffice) |
 | Aantal medewerkers | 16 |
 | (Bezoek)adres | [INVULLEN: adres] |
 | Postcode | [INVULLEN: postcode] |
@@ -49,11 +49,11 @@
 
 ### Organisatie
 
-**Onderzoeksgebied.** JIS Nederland verkoopt en implementeert ERP-systemen en heeft twee productteams: Jeeves ERP en
-SAP Business One. Het onderzoek richt zich op het SAP Business One-team (6 consultants) en het projectproces dat dit
-team uitvoert: van de overdracht door sales, via vooranalyse, inrichting, datamigratie, testen en go-live, tot de
-overdracht naar nazorg. Directie, sales en support zijn betrokken als stakeholders. Het Jeeves-team en het
-verkoopproces vallen buiten het onderzoek. Een organogram met het onderzoeksgebied is opgenomen in bijlage 1.
+**Onderzoeksgebied.** JIS Nederland verkoopt en implementeert ERP-systemen en heeft twee ERP-teams: Jeeves ERP en
+SAP Business One. Daarnaast verkoopt JIS sinds kort het CRM-systeem SuperOffice, als aparte productlijn. Het
+onderzoek richt zich op het SAP Business One-team (6 consultants) en het projectproces dat dit team uitvoert: van de overdracht door sales, via vooranalyse, inrichting, datamigratie, testen en go-live, tot de
+overdracht naar nazorg. Directie, sales en support zijn betrokken als stakeholders. Het Jeeves-team, SuperOffice
+en het verkoopproces vallen buiten het onderzoek. Een organogram met het onderzoeksgebied is opgenomen in bijlage 1.
 
 **Technische omgeving.** Een ERP-systeem is een technisch informatiesysteem waarin de primaire processen van een
 bedrijf worden ingericht: inkoop, voorraad, productie, verkoop en financiën. De klanten van JIS zijn vooral productie-

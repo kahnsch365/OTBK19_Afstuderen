@@ -31,10 +31,11 @@ ACCENT_LICHT = "#E6EEF7"
 ACCENT_VAK = "#C9DAEE"
 
 DIRECTEUR = "Directeur / eigenaar"
-STAF = ["Marketingmedewerker", "SuperOffice-medewerker\n(CRM)"]
-TEAMS = [  # (teamnaam, verkoper, aantal consultants, onderzoeksgebied?)
+STAF = "Marketingmedewerker"
+TEAMS = [  # (teamnaam, verkoper, aantal consultants, onderzoeksgebied?); verkoper=None: alleen consultants-vak
     ("Team Jeeves ERP", "Verkoper Jeeves", 5, False),
     ("Team SAP Business One", "Verkoper SAP Business One", 6, True),
+    ("Team SuperOffice (CRM)", "SuperOffice-medewerker", 0, False),
 ]
 
 
@@ -97,7 +98,7 @@ def poppetjes(d, cx, y, aantal, kleur):
 def main() -> None:
     img = Image.new("RGB", s(B, H), "white")
     d = ImageDraw.Draw(img)
-    f_titel = font(30, FONT_VET)
+    f_titel = font(27, FONT_VET)
     f_vak = font(27)
     f_vak_vet = font(27, FONT_VET)
     f_klein = font(22)
@@ -108,40 +109,41 @@ def main() -> None:
     vak(d, midden - 230, 30, midden + 230, 110, DIRECTEUR, f_vak_vet, vulling="white", rand=ZWART, dikte=2.5)
 
     # Lijnen: directeur -> staf en -> teams
-    tak_y = 320
-    staf_y = 200
+    tak_y, staf_y = 320, 200
+    breedte, tussen = 490, 25
+    links = (B - len(TEAMS) * breedte - (len(TEAMS) - 1) * tussen) / 2
+    teams_x = [links + breedte / 2 + i * (breedte + tussen) for i in range(len(TEAMS))]
     lijn(d, midden, 110, midden, tak_y)
-    lijn(d, 560, staf_y, 1040, staf_y)
-    teams_x = [420, 1180]
-    lijn(d, teams_x[0], tak_y, teams_x[1], tak_y)
+    lijn(d, teams_x[0], tak_y, teams_x[-1], tak_y)
 
     # Staf (direct onder de directeur)
-    vak(d, 120, staf_y - 45, 560, staf_y + 45, STAF[0], f_vak)
-    vak(d, 1040, staf_y - 45, 1480, staf_y + 45, STAF[1], f_vak)
+    lijn(d, midden - 240, staf_y, midden, staf_y)
+    vak(d, midden - 680, staf_y - 45, midden - 240, staf_y + 45, STAF, f_vak)
 
     # Teams
     for cx, (naam, verkoper, aantal, gebied) in zip(teams_x, TEAMS):
-        x1, x2, y1, y2 = cx - 360, cx + 360, 360, 790
+        x1, x2, y1 = cx - breedte / 2, cx + breedte / 2, 360
+        y2 = 790 if aantal else 560
         lijn(d, cx, tak_y, cx, y1)
         if gebied:
             d.rectangle(s(x1, y1, x2, y2), fill=ACCENT_LICHT)
             stippel_rechthoek(d, x1, y1, x2, y2, ACCENT, dikte=3.5)
             label = "Onderzoeksgebied"
-            lb = d.textlength(label, font=f_klein) / SCHAAL + 28
-            d.rounded_rectangle(s(x2 - lb - 14, y1 - 18, x2 - 14, y1 + 18), radius=round(6 * SCHAAL), fill=ACCENT)
-            tekst_midden(d, x2 - 14 - lb / 2, y1 - 14, label, f_klein, kleur="white")
+            f_label = font(20)
+            lb = d.textlength(label, font=f_label) / SCHAAL + 20
+            d.rounded_rectangle(s(x2 - lb - 10, y1 - 16, x2 - 10, y1 + 16), radius=round(6 * SCHAAL), fill=ACCENT)
+            tekst_midden(d, x2 - 10 - lb / 2, y1 - 13, label, f_label, kleur="white")
             vulling, rand, poppetje = ACCENT_VAK, ACCENT, ACCENT
         else:
             d.rectangle(s(x1, y1, x2, y2), fill="#FAFAFA", outline=GRIJS_RAND, width=round(2 * SCHAAL))
             vulling, rand, poppetje = GRIJS_VAK, GRIJS_RAND, "#7A7A7A"
-        tekst_midden(d, cx, y1 + 24, naam, f_titel)
-        vak(d, cx - 250, 435, cx + 250, 515, verkoper, f_vak)
-        d.rounded_rectangle(s(cx - 300, 555, cx + 300, 760), radius=round(8 * SCHAAL), fill=vulling, outline=rand,
-                            width=round(2 * SCHAAL))
-        tekst_midden(d, cx, 575, f"{aantal} consultants", f_vak_vet)
-        poppetjes(d, cx, 665, aantal, poppetje)
-        if gebied:
-            tekst_midden(d, cx, 712, "(waaronder de student)", f_klein_cursief)
+        tekst_midden(d, cx, y1 + 26, naam, f_titel)
+        vak(d, cx - 215, 435, cx + 215, 515, verkoper, f_vak)
+        if aantal:
+            d.rounded_rectangle(s(cx - 215, 555, cx + 215, 760), radius=round(8 * SCHAAL), fill=vulling,
+                                outline=rand, width=round(2 * SCHAAL))
+            tekst_midden(d, cx, 580, f"{aantal} consultants", f_vak_vet)
+            poppetjes(d, cx, 685, aantal, poppetje)
 
     # Legenda en toelichting
     y = 840
