@@ -1,7 +1,7 @@
 # Project
 Afstudeerproject TBK (Saxion, OTBK19), geen code. Test/Lint/Run: n.v.t.
 Schooldocumenten: `schooldocumenten/` — lees de `.md` naast elk origineel; bij twijfel is het origineel leidend. Overzicht van eisen en planning: `schooldocumenten/README.md`.
-Taal: Nederlands.
+Taal: Nederlands. Student: Koen; achtergrond en werkcontext in `context/persoonlijk-profiel.md`.
 
 # Rules
 - Push straight to `main`: commit after each working step, push after each task

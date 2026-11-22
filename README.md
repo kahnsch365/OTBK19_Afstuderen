@@ -6,6 +6,7 @@ Werkrepo voor mijn afstudeertraject (deeltijd, Saxion Parttime School). Deze rep
 | Map / bestand | Inhoud |
 |---|---|
 | [`schooldocumenten/`](schooldocumenten/README.md) | Alles wat de opleiding aanlevert (handleiding, toetsing, rubrics, onderzoeksvaardigheden). Naast elk origineel staat een `.md`-versie. **Begin bij de README daar**: die bevat een samenvatting van de eisen en planning. |
+| [`context/`](context/persoonlijk-profiel.md) | Persoonlijk profiel, werkervaring en werkcontext (input voor het onderwerp) |
 | `CLAUDE.md`, `WORKFLOW.md`, `.claude/` | Afspraken en instellingen voor het werken met Claude Code |
 
 ## Status

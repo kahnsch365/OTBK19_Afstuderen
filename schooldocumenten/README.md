@@ -25,7 +25,7 @@ Hier staan alle documenten die de opleiding aanlevert. Naast elk origineel (PDF/
   onderzoeksvoorstel noemt minimaal 15 medewerkers en minimaal 2 uur per week begeleiding door de bedrijfsbegeleider.
 
 ### Toelatingseisen
-Propedeuse afgerond (60 EC) en minimaal **130 EC** van de postpropedeuse.
+Propedeuse afgerond (60 EC) en minimaal **130 EC** van de postpropedeuse. ✅ Koen voldoet hieraan.
 
 ### Stappen en planning
 | # | Fase | Resultaat / poort |
@@ -109,6 +109,5 @@ Overig:
 - De 6W-formule (Leen & Mertens) was een scan en is overgetypt.
 - Word-formulieren met samengevoegde cellen staan als HTML-tabel in de `.md` (GitHub geeft die netjes weer).
 - Excel: alleen de celwaarden. Formules, opmaak en macro's (`.xlsm`) staan alleen in het origineel.
-- Opgemerkte inconsistenties in de bronnen: het formulier onderzoeksvoorstel is van 2021-2022 (noemt "max. 20 studiepunten
-  openstaan", terwijl de handleiding 26-27 "130 EC postpropedeuse" noemt). De rubrics vermelden "2025-2026". Voor de GO op het onderzoeksplan noemt de studentinstructie "alle criteria minimaal 3 punten", de rubric scoort 0/1 per criterium en de handleiding spreekt van "zeven aspecten" (de rubric heeft er zes). De
-  reflectie-deadline is "2 weken" (studentinstructie) of "3 werkweken" (handleiding) voor het eindgesprek. Navragen bij de opleiding.
+- Opgemerkte inconsistenties in de bronnen: het formulier onderzoeksvoorstel is van 2021-2022. De rubrics vermelden "2025-2026". Voor de GO op het onderzoeksplan noemt de studentinstructie "alle criteria minimaal 3 punten", de rubric scoort 0/1 per criterium en de handleiding spreekt van "zeven aspecten" (de rubric heeft er zes). De
+  reflectie-deadline is "2 weken" (studentinstructie) of "3 werkweken" (handleiding) voor het eindgesprek. Besloten: voorlopig aannemen zoals het er staat.
