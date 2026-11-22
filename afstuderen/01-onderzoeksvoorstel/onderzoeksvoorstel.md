@@ -5,9 +5,6 @@
 > `[INVULLEN: …]`-velden in vóór het indienen. Structuur en kopjes volgen het *Formulier Onderzoeksvoorstel
 > Technische Bedrijfskunde deeltijd*.
 
-**Werktitel:** Van ieder z'n eigen aanpak naar een standaard projectproces: ontwerp van een schaalbare,
-AI-ondersteunde implementatiemethode voor het SAP Business One-team van JIS Nederland.
-
 **Datum:** [INVULLEN: datum van indienen]
 
 ## 1. Gegevens student
@@ -28,7 +25,7 @@ AI-ondersteunde implementatiemethode voor het SAP Business One-team van JIS Nede
 |---|---|
 | Naam bedrijf | JIS Nederland |
 | Naam opdrachtgever | [INVULLEN: naam], directeur/eigenaar JIS Nederland |
-| Bedrijfssoort/sector | ICT-dienstverlening: verkoop, implementatie en ondersteuning van ERP-systemen (Jeeves ERP en SAP Business One) voor productie- en handelsbedrijven |
+| Bedrijfssoort/sector | ICT-dienstverlening: implementatie van ERP-systemen (Jeeves ERP, SAP Business One) |
 | Aantal medewerkers | 16 |
 | (Bezoek)adres | [INVULLEN: adres] |
 | Postcode | [INVULLEN: postcode] |
@@ -69,11 +66,9 @@ van de klant samenkomen. De opdracht wordt daarmee uitgevoerd in de context van 
 
 ### 3a. Probleemstelling
 
-JIS Nederland (16 medewerkers) verkoopt en implementeert ERP-systemen voor productie- en handelsbedrijven. Het SAP
-Business One-team voert alle klantprojecten voor dit pakket uit: volledige implementaties, implementaties van add-ons
-en kleinere uitbreidingen. Dit gebeurt binnen de technische omgeving van ERP, waarin systeemconfiguratie, datamigratie
-en de inrichting van de logistieke en productieprocessen van de klant samenkomen. De probleemstelling langs de 6W
-(Leen & Mertens, 2017):
+Het SAP Business One-team van JIS Nederland voert alle klantprojecten voor dit ERP-pakket uit: volledige
+implementaties, add-ons en kleinere uitbreidingen (zie onderdeel 2). De probleemstelling langs de 6W (Leen & Mertens,
+2017):
 
 **Wat is het probleem?** Het SAP Business One-team heeft geen gestandaardiseerd projectproces. Iedere consultant werkt
 op een eigen manier, zonder vaste fasen, deliverables, overdrachtsmomenten of vaste vastlegging van inrichtingskeuzes en
@@ -97,10 +92,12 @@ groei van het team.
 **Waar doet het probleem zich voor?** In het projectproces van het SAP Business One-team: van de overdracht door sales,
 via vooranalyse, inrichting en testen, tot go-live en de overdracht naar nazorg.
 
-Het probleem is daarmee een procesvraagstuk dat vraagt om het (her)ontwerpen van een projectproces in een technische
-omgeving. Dat past bij de kern van TBK: procesoptimalisatie of -(her)ontwerp.
+Het is daarmee een procesvraagstuk in een technische omgeving, met het (her)ontwerpen van een projectproces als kern.
 
 ### 3b. Opdrachtomschrijving
+
+**Werktitel.** *Van ieder z'n eigen aanpak naar een standaard projectproces: ontwerp van een schaalbare,
+AI-ondersteunde implementatiemethode voor het SAP Business One-team van JIS Nederland.*
 
 De opdracht is het ontwerpen van een gestandaardiseerde, schaalbare projectmethode voor het SAP Business One-team. De
 methode bestaat uit:
@@ -111,27 +108,25 @@ methode bestaat uit:
 - 3–5 stuur-KPI's (uren t.o.v. budget, go-live t.o.v. planning, rework na go-live);
 - ten minste één AI-toepassing die vastlegging, kennisborging en overdracht ondersteunt.
 
-De opdracht levert een gevalideerd ontwerp op met een kosten-batenanalyse en een implementatieplan: een aanzet tot
-implementatie. De invoering zelf valt buiten de afstudeerperiode. Ook buiten de scope vallen het Jeeves-team, het
-verkoopproces (alleen de overdracht van sales naar consultant hoort erbij), de dagelijkse support als proces (deze dient
-alleen als databron) en het bouwen van een eigen AI-tool.
+Het resultaat is een gevalideerd ontwerp met kosten-batenanalyse en implementatieplan: een aanzet tot implementatie.
+De invoering zelf valt buiten de afstudeerperiode. Ook buiten de scope vallen het Jeeves-team, het verkoopproces
+(behalve de overdracht naar de consultant), support als proces (alleen databron) en het bouwen van een eigen AI-tool.
 
 De opdracht is **multidisciplinair**. Ze combineert procesmanagement (procesontwerp, standaardisatie, KPI's),
 projectmanagement (fasering, begroting, ERP-implementatiemethoden), kennismanagement (borging en overdracht van
 klantkennis), technologie en innovatie (ERP en AI in het kenniswerk van consultants) en mensen in organisaties
 (draagvlak, weerstand en verandering bij consultants en sales).
 
-De opdracht is **innovatief**. JIS heeft nog geen projectmethode, dus de methode is nieuw voor de organisatie.
-Daarnaast wordt generatieve AI ingezet in het kenniswerk van consultants, met de AVG en de vertrouwelijkheid van
-klantdata als harde randvoorwaarde. Ook de schaalbaarheid naar projecttype is nieuw: een vaste aanpak die ook voor
-kleine projecten licht genoeg blijft.
+De opdracht is **innovatief**: JIS heeft nog geen projectmethode, de methode schaalt mee met het projecttype en zet
+generatieve AI in bij het kenniswerk van consultants, met de AVG en de vertrouwelijkheid van klantdata als harde
+randvoorwaarde.
 
 De opdracht is **tactisch/operationeel** van aard. Ze gaat over de inrichting en besturing van het primaire
 projectproces: hoe projecten worden uitgevoerd, overgedragen en gestuurd. Er is een strategisch raakvlak: de methode
 moet het team in staat stellen te groeien zonder kwaliteitsverlies.
 
-De opdracht speelt zich af in een **technische omgeving**: het onderzochte proces is de implementatie van ERP-systemen
-waarin de logistieke, productie- en financiële processen van klanten worden ingericht (zie onderdeel 2, Organisatie).
+De **technische omgeving** is de implementatie van ERP-systemen, waarin de logistieke, productie- en financiële
+processen van klanten worden ingericht (zie onderdeel 2, Organisatie).
 
 ### 3c. Doelstelling, onderzoeksvraag en deelvragen
 
@@ -166,10 +161,10 @@ worden opgeleverd?
 
 **5. (Verify)** In hoeverre voldoet het ontwerp aan de eisen (CTQ's) en wordt het door de stakeholders gedragen, en wat zijn de kosten, de baten en de stappen voor invoering?
 
-Het onderzoek is complex genoeg voor bedrijfskundig onderzoek. Het probleem is nog niet in kaart gebracht en er is geen
-standaardoplossing: bestaande methoden zoals SAP Activate zijn ontworpen voor grotere projecten en teams. Voor een
-passende methode zijn daarom een systematische analyse van procesdata en interviews nodig, een afweging van alternatieven
-en vakliteratuur uit meerdere vakgebieden.
+Het vraagstuk vraagt om bedrijfskundig onderzoek: het probleem is nog niet in kaart gebracht en er is geen
+standaardoplossing (bestaande methoden zoals SAP Activate zijn bedoeld voor grotere projecten en teams). Een passende
+methode vraagt een systematische analyse van data en interviews, een afweging van alternatieven en vakliteratuur uit
+meerdere vakgebieden.
 
 ### 3d. Onderzoeksontwerp
 
@@ -187,18 +182,17 @@ en de nulmeting vast, Analyze de oorzaken en ontwerpalternatieven, en Verify val
 | 4b (Design) | Literatuur over AI in kenniswerk; inventarisatie van tools en het beleid van JIS | Afwegingsmatrix (nut, risico, kosten); TAM (Davis, 1989); toets aan de AVG | Uitgewerkte AI-toepassing(en) met randvoorwaarden |
 | 5 (Verify) | Validatiesessie met consultants en directie; droogtest op een afgerond project; AI-test met een geanonimiseerd voorbeeld | Toets aan de CTQ's (member check); kosten-batenanalyse; verandermodel (Kotter, 1996) | Gevalideerd ontwerp, kosten-batenanalyse en implementatieplan |
 
-**Betrouwbaarheid en validiteit.** De student onderzoekt het eigen team. Om objectief te blijven worden interviews
-anoniem verwerkt en ligt de focus op het proces, niet op personen. Bevindingen worden getrianguleerd (data, interviews
-en dossiers) en via member checks voorgelegd aan de geïnterviewden. Peer debriefing gebeurt met de bedrijfsbegeleider.
-Een interviewprotocol en een onderzoekslogboek maken het onderzoek herhaalbaar. Klanten worden niet geïnterviewd; hun
-perspectief komt indirect uit supporttickets, dossiers en sales. Dit wordt als beperking benoemd. Het aantal volledige
-implementaties per jaar is klein. Door add-ons en kleine uitbreidingen mee te nemen, stijgt het aantal cases. De
-analyse is vooral kwalitatief, met beschrijvende statistiek waar de data dat toelaat. Klantgegevens gaan niet zonder
-toestemming in externe AI-tools.
+**Betrouwbaarheid en validiteit.** Omdat de student het eigen team onderzoekt, worden interviews anoniem verwerkt en
+ligt de focus op het proces, niet op personen. Bevindingen worden getrianguleerd (data, interviews en dossiers), via
+member checks voorgelegd aan de geïnterviewden en besproken met de bedrijfsbegeleider (peer debriefing). Een
+interviewprotocol en een onderzoekslogboek maken het onderzoek herhaalbaar. Beperkingen: klanten worden niet
+geïnterviewd (hun perspectief komt uit supporttickets, dossiers en sales) en het aantal volledige implementaties is
+klein. Add-ons en kleine uitbreidingen vergroten het aantal cases; de analyse is vooral kwalitatief. Klantgegevens gaan
+niet zonder toestemming in externe AI-tools.
 
-**Haalbaarheid in 18 weken.** Het onderzoek wordt door één student uitgevoerd, deels in werktijd. Het gebruikt
-bestaande data en interne bronnen en levert één kernproduct op. De invoering valt buiten de afstudeerperiode, Verify is
-een validatie (geen pilot) en AI is één afgebakende deelvraag (4b). Globale fasering: week 1–3 onderzoeksplan; week 3–5
+**Haalbaarheid in 18 weken.** Eén student voert het onderzoek uit, deels in werktijd, met bestaande data, interne
+bronnen en één kernproduct. De invoering valt erbuiten, Verify is een validatie (geen pilot) en AI is één afgebakende
+deelvraag (4b). Globale fasering: week 1–3 onderzoeksplan; week 3–5
 Define; week 5–7 Measure; week 7–9 Analyze; week 9–12 Design; week 12–14 Verify, kosten-baten en implementatieplan;
 week 15 overzicht beroepsproducten; week 15–18 adviesrapport, portfolio en reflectieverslag.
 
