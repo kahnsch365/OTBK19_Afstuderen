@@ -16,8 +16,8 @@
 | Opleiding | SPS TBK Enschede |
 | Afstudeerperiode | van: [INVULLEN: startdatum] t/m: [INVULLEN: einddatum] |
 | Propedeuse behaald | ja |
-| Max. 20 studiepunten openstaan | ja |
-| Openstaande vakken | [INVULLEN: openstaande vakken, of "geen"] |
+| Max. 20 studiepunten openstaan | [INVULLEN: ja / nee, controleren in het studievoortgangsoverzicht] |
+| Openstaande vakken | [INVULLEN: openstaande vakken en verwachte resultaatdatum, of "geen"] |
 
 ## 2. Gegevens bedrijf en bedrijfsbegeleider
 
@@ -115,7 +115,7 @@ De invoering zelf valt buiten de afstudeerperiode. Ook buiten de scope vallen he
 De opdracht is **multidisciplinair**. Ze combineert procesmanagement (procesontwerp, standaardisatie, KPI's),
 projectmanagement (fasering, begroting, ERP-implementatiemethoden), kennismanagement (borging en overdracht van
 klantkennis), technologie en innovatie (ERP en AI in het kenniswerk van consultants) en mensen in organisaties
-(draagvlak, weerstand en verandering bij consultants en sales).
+(draagvlak, weerstand en verandering: standaardisatie raakt de professionele autonomie van consultants).
 
 De opdracht is **innovatief**: JIS heeft nog geen projectmethode, de methode schaalt mee met het projecttype en zet
 generatieve AI in bij het kenniswerk van consultants, met de AVG en de vertrouwelijkheid van klantdata als harde

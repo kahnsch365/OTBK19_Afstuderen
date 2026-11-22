@@ -294,6 +294,11 @@ def sectie(secties, begin):
 # ---------------------------------------------------------------- invullen
 def main() -> None:
     velden, secties, datum = lees_md(MD.read_text(encoding="utf-8"))
+    nodig = [*CELLEN, *STUDIEVOORTGANG, "Opleiding", "Persoonlijke relatie",
+             "Tijd voor begeleiding (min. 2 uur per week)"]
+    ontbrekend = [label for label in nodig if label not in velden]
+    if ontbrekend:
+        raise SystemExit(f"Velden ontbreken in {MD.name}: {', '.join(ontbrekend)}")
     doc = Document(str(BRON))
     t0, t1 = doc.tables
 
@@ -305,8 +310,6 @@ def main() -> None:
 
     # Tabel 0: gewone invulcellen
     for label, (r, c) in CELLEN.items():
-        if label not in velden:
-            raise SystemExit(f"Veld '{label}' ontbreekt in {MD.name}")
         cel = t0.cell(r, c)
         zet_tekst(cel.paragraphs[0], velden[label])
         if label != "Functie en opleidingsniveau":  # die cel bevat ook de afspraak over begeleidingstijd

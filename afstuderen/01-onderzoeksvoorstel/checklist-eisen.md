@@ -13,7 +13,7 @@ Toetsing van [`onderzoeksvoorstel.md`](onderzoeksvoorstel.md) / `onderzoeksvoors
 | 2b | Niet op te lossen met (alleen) standaardprocedures; systematische analyse hoort bij de oplossingsroute | 3c (laatste alinea: SAP Activate past niet zonder meer); 3d (CTQ, visgraat, Pareto, afwegingsmatrix) | ✅ |
 | 2c | (Deels) specialistische vakkennis en (internationale) vakliteratuur nodig | 3d (DMADV, BPMN, SECI, TAM, Kotter; bronnenlijst) | ✅ |
 | 2d | Hoge eisen aan taakuitvoering en resultaat | 3c (SMART-doel: gevalideerd ontwerp, KPI's met streefwaarden, kosten-baten, implementatieplan) | ✅ |
-| 2e | Dilemma's kenmerkend voor het beroep | 3d (eigen team onderzoeken, objectiviteit); 3b (AI tegenover vertrouwelijkheid klantdata); standaardisatie tegenover autonomie (3b, mensen in organisaties) | ✅ |
+| 2e | Dilemma's kenmerkend voor het beroep | 3d (eigen team onderzoeken, objectiviteit); 3b (AI tegenover vertrouwelijkheid klantdata); standaardisatie tegenover de professionele autonomie van consultants (3b, multidisciplinair) | ✅ |
 | 2f | Opdrachtgever en organisatie hebben groot belang bij de resultaten | 3a (Waarom: niet-factureerbare uren, voorspelbaarheid, kwetsbaarheid, groei) | ✅ |
 | 2g | Beperkte looptijd | 3c (18 weken, uiterlijk [einddatum]); 3d (fasering) | ✅ |
 | 2h | Verschillende partijen met mogelijk verschillende belangen | 3a (Wie: directie, consultants, sales, support, klanten); 3d (macht-belangmatrix) | ✅ |
@@ -67,5 +67,5 @@ Toetsing van [`onderzoeksvoorstel.md`](onderzoeksvoorstel.md) / `onderzoeksvoors
 |---|---|---|
 | APA-verwijzingen en bronnenlijst | 3d (Bronnen) | ✅ (Koen: bronnen nalopen) |
 | Verantwoording AI-gebruik | 3d (Verantwoording AI-gebruik) | ✅ |
-| Alle `[INVULLEN: …]`-velden gevuld | Onderdelen 1, 2, 3a, 3c | ⚠️ |
+| Alle `[INVULLEN: …]`-velden gevuld | Datum, onderdelen 1, 2, 3a, 3c | ⚠️ |
 | Deadline (week 4 van het kwartiel vóór de start) en nieuwste formulierversie gecontroleerd in Brightspace | – | ⚠️ |
