@@ -221,6 +221,3 @@ Anthropic. (2026). *Claude* [Groot taalmodel]. https://claude.ai
 ## Bijlage 1 – Organogram JIS Nederland
 
 ![Organogram JIS Nederland](bijlage-organogram.png)
-
-*Figuur 1.* Organogram van JIS Nederland (16 medewerkers) met het onderzoeksgebied: het projectproces van het SAP
-Business One-team. Eigen weergave (2026).

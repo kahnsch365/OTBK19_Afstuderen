@@ -17,7 +17,7 @@ MAP = Path(__file__).resolve().parent.parent
 UIT = MAP / "bijlage-organogram.png"
 
 SCHAAL = 2
-B, H = 1600, 760
+B, H = 1600, 610
 FONTMAP = Path("/usr/share/fonts/truetype/liberation")
 FONT = FONTMAP / "LiberationSans-Regular.ttf"
 FONT_VET = FONTMAP / "LiberationSans-Bold.ttf"
@@ -34,8 +34,8 @@ ACCENT_LICHT = "#EEF2F8"
 DIRECTEUR = "Directeur / eigenaar"
 STAF = "Marketingmedewerker"
 TEAMS = [  # (productlijn, functies, onderzoeksgebied?)
-    ("Jeeves ERP", ["Verkoper", "Consultants (5)"], False),
-    ("SAP Business One", ["Verkoper", "Consultants (6)"], True),
+    ("Jeeves (ERP)", ["Verkoper", "Consultants (5)"], False),
+    ("SAP Business One (ERP)", ["Verkoper", "Consultants (6)"], True),
     ("SuperOffice (CRM)", ["Medewerker (1)"], False),
 ]
 
@@ -83,7 +83,6 @@ def main() -> None:
     d = ImageDraw.Draw(img)
     f_vet = font(24, FONT_VET)
     f_tekst = font(23)
-    f_klein = font(19)
     f_klein_cursief = font(19, FONT_CURSIEF)
 
     midden = B / 2
@@ -126,15 +125,6 @@ def main() -> None:
             lijn(d, ruggengraat, y + vak_h / 2, x1 + 60, y + vak_h / 2)
             vak(d, x1 + 60, y, x2, y + vak_h, functie, f_tekst)
             y += vak_h + vak_gat
-
-    # Legenda en toelichting
-    y = 640
-    stippel_rechthoek(d, 50, y + 2, 86, y + 22, ACCENT, streep=8, gat=5)
-    d.text(s(100, y), "Onderzoeksgebied: het projectproces van het SAP Business One-team, van de overdracht door "
-           "sales tot de overdracht naar nazorg.", font=f_klein, fill=TEKST)
-    d.text(s(50, y + 34), "Totaal 16 medewerkers. De teams hebben geen formele teamleider; de lijn loopt via de "
-           "directeur.", font=f_klein, fill=TEKST)
-    d.text(s(50, y + 68), "Bron: eigen weergave (2026).", font=f_klein_cursief, fill=LIJN)
 
     img.save(UIT, dpi=(254, 254))
     print(f"Geschreven: {UIT.relative_to(MAP.parents[1])}")
