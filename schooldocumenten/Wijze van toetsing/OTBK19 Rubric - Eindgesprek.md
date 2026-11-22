@@ -1,21 +1,16 @@
 <!-- Bron: OTBK19 Rubric - Eindgesprek.pdf -->
 > 📄 Leesbare versie van het PDF-bestand [`OTBK19 Rubric - Eindgesprek.pdf`](<OTBK19 Rubric - Eindgesprek.pdf>). Bij twijfel geldt het origineel (figuren en opmaak staan alleen daarin).
 
-Name
+# OTBK19 Rubric - Eindgesprek
 
-OTBK19 Rubric - Eindgesprek
+Name: OTBK19 Rubric - Eindgesprek
 
-Description
+Description:
 
-Rubric Detail
+Rubric Detail — Levels of Achievement
 
-# Levels of Achievement
+## 6. Je toont je een gelijkwaardige gesprekspartner met collega-professionals over het onderzoek, de resultaten, de aanbevelingen vanuit de bredere integratieve reflectie.
 
-|**Criteria**|**Slecht**|**Onvoldoende**|**Voldoende**|**Goed**|**UItstekend**|
+| Criteria | Slecht (0 Points) | Onvoldoende (3 Points) | Voldoende (6 Points) | Goed (8 Points) | UItstekend (10 Points) |
 |---|---|---|---|---|---|
-|**6. Je toont je een**<br>**gelijkwaardige**<br>**gesprekspartner**<br>**met collega-**<br>**professionals**<br>**over het**<br>**onderzoek, de**<br>**resultaten, de**<br>**aanbevelingen**<br>**vanuit de bredere**<br>**integratieve**<br>**re�ectie.**|**0 Points**<br>De vragen van de<br>gesprekspartners<br>worden<br>onvoldoende,<br>onvolledig of niet<br>correct<br>beantwoord.|**3 Points**<br>Enige expertise<br>m.b.t.de inhoud<br>van het portfolio<br>wordt getoond.<br>Niet alle vragen<br>van de<br>gesprekspartners<br>worden<br>adequaat en/ of<br>professioneel<br>beantwoord.|**6 Points**<br>Expertise met<br>betrekking tot de<br>inhoud van het<br>portfolio wordt<br>getoond door<br>vragen van<br>gesprekspartners<br>adequaat en<br>overtuigend te<br>beantwoorden<br>vanuit een|**8 Points**<br>Zoals niveau B en daarnaast worden de<br>uitkomsten van het onderzoek in een breder<br>perspectief (context) geplaatst en<br>gerelateerd aan actuele ontwikkelingen in<br>het werkveld of de maatschappij (triple loop<br>learning). Of de uitkomsten van het<br>onderzoek worden gekoppeld aan de<br>kwaliteit van het eigen functioneren, aan de<br>ontwikkeling en toekomst en geïllustreerd<br>met eigen ontwikkelde beroepsproducten.|**10 Points**<br>Zoals niveau B en daarnaast worden de<br>uitkomsten van het onderzoek in een breder<br>perspectief (context) geplaatst en<br>gerelateerd aan actuele ontwikkelingen in<br>het werkveld of de maatschappij (triple loop<br>learning). En de uitkomsten van het<br>onderzoek worden gekoppeld aan de<br>kwaliteit van het eigen functioneren, aan de<br>ontwikkeling en toekomst en geïllustreerd<br>met eigen ontwikkelde beroepsproducten.|
-|**6.1 Vragen**<br>**beantwoorden,**<br>**professionele**<br>**houding, relatie**<br>**met actuele**<br>**ontwikkelingen**<br>**en re�ectie op**<br>**eigen kwaliteit en**<br>**eigen**<br>**functioneren.**|||professionele<br>houding (verbaal en<br>non-verbaal).|||
-
-View Associated Items
-
-Print Close Window
+| 6.1 Vragen beantwoorden, professionele houding, relatie met actuele ontwikkelingen en reflectie op eigen kwaliteit en eigen functioneren. | De vragen van de gesprekspartners worden onvoldoende, onvolledig of niet correct beantwoord. | Enige expertise m.b.t.de inhoud van het portfolio wordt getoond. Niet alle vragen van de gesprekspartners worden adequaat en/ of professioneel beantwoord. | Expertise met betrekking tot de inhoud van het portfolio wordt getoond door vragen van gesprekspartners adequaat en overtuigend te beantwoorden vanuit een professionele houding (verbaal en non-verbaal). | Zoals niveau B en daarnaast worden de uitkomsten van het onderzoek in een breder perspectief (context) geplaatst en gerelateerd aan actuele ontwikkelingen in het werkveld of de maatschappij (triple loop learning). Of de uitkomsten van het onderzoek worden gekoppeld aan de kwaliteit van het eigen functioneren, aan de ontwikkeling en toekomst en geïllustreerd met eigen ontwikkelde beroepsproducten. | Zoals niveau B en daarnaast worden de uitkomsten van het onderzoek in een breder perspectief (context) geplaatst en gerelateerd aan actuele ontwikkelingen in het werkveld of de maatschappij (triple loop learning). En de uitkomsten van het onderzoek worden gekoppeld aan de kwaliteit van het eigen functioneren, aan de ontwikkeling en toekomst en geïllustreerd met eigen ontwikkelde beroepsproducten. |
