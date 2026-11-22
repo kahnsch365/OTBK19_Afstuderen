@@ -1,34 +1,17 @@
-# Repo template
+# Afstuderen Ba Technische Bedrijfskunde (OTBK19), Saxion Enschede
 
-Basis voor nieuwe projecten met vaste afspraken voor GitHub en Claude Code.
-Gericht op solo-gebruik en zo laag mogelijk verbruik.
+Werkrepo voor mijn afstudeertraject (deeltijd, Saxion Parttime School). Deze repo is privé.
 
-## Afspraken
-- **`main`** = werk- en testbranch. Claude commit per werkende stap en pusht na elke taak.
-- **`live`** = alleen voor een echte livegang, via `/release`. Claude Code vraagt
-  altijd bevestiging bij acties op `live`.
-- Geen GitHub Actions, CI of betaalde diensten.
-
-## Wat zit erin
-| Bestand | Doel |
+## Structuur
+| Map / bestand | Inhoud |
 |---|---|
-| `CLAUDE.md` | Korte regels die altijd gelden |
-| `WORKFLOW.md` | Spiekbriefje en gewoontes voor mij |
-| `.claude/settings.json` | Model `opusplan`, compact bij 250k, Accept edits, rechten, hook |
-| `.claude/skills/` | `/build`, `/interview`, `/release`, `/standard` |
-| `.claude/agents/` | `researcher` (goedkoop, alleen lezen), `reviewer` (frisse blik) |
-| `.claude/hooks/session-start.sh` | Installeert dependencies in cloud-sessies |
+| [`schooldocumenten/`](schooldocumenten/README.md) | Alles wat de opleiding aanlevert (handleiding, toetsing, rubrics, onderzoeksvaardigheden). Naast elk origineel staat een `.md`-versie. **Begin bij de README daar**: die bevat een samenvatting van de eisen en planning. |
+| `CLAUDE.md`, `WORKFLOW.md`, `.claude/` | Afspraken en instellingen voor het werken met Claude Code |
 
-## Nieuw project starten
-1. GitHub → **Use this template** → privé repo.
-2. Vul in `CLAUDE.md` het blok `# Project` in (test/lint/run-commando's).
-3. Optioneel, afhankelijk van taal/stack:
-   - code-intelligence plugin, bijv. `/plugin install typescript-lsp@claude-plugins-official`
-   - formatter-hook na edits (vraag Claude: "maak een hook die na elke edit <formatter> draait")
-   - extra install-stappen in `.claude/hooks/session-start.sh`
-4. Groot project geworden? Zie de
-   [large codebases-gids](https://code.claude.com/docs/en/large-codebases)
-   (CLAUDE.md per map, deny-regels voor gegenereerde code).
-
-## Eenmalig voor deze template-repo
-GitHub → Settings → vink **Template repository** aan.
+## Status
+- [x] Schooldocumenten verzameld en leesbaar gemaakt
+- [ ] Onderwerp / opdrachtgever kiezen
+- [ ] Onderzoeksvoorstel (formulier) indienen, uiterlijk week 4 van het kwartiel vóór de start
+- [ ] Onderzoeksplan → GO
+- [ ] Uitvoering, portfolio en reflectieverslag
+- [ ] Eindgesprek

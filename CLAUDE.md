@@ -1,6 +1,7 @@
 # Project
-<!-- Fill in per project: one line on what this is, plus the real commands. -->
-Test: `TODO` · Lint: `TODO` · Run: `TODO`
+Afstudeerproject TBK (Saxion, OTBK19), geen code. Test/Lint/Run: n.v.t.
+Schooldocumenten: `schooldocumenten/` — lees de `.md` naast elk origineel; bij twijfel is het origineel leidend. Overzicht van eisen en planning: `schooldocumenten/README.md`.
+Taal: Nederlands.
 
 # Rules
 - Push straight to `main`: commit after each working step, push after each task
