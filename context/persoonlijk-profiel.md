@@ -22,8 +22,9 @@ Context voor het kiezen en uitwerken van de afstudeeropdracht.
   - betere verslaglegging en documentatie;
   - et cetera (nog verder te verkennen).
 
-## Aandachtspunten bij JIS als opdrachtgever (eerste inschatting)
-- De handleiding focust op **processen ontwerpen/vernieuwen/optimaliseren** (Procesmanagement + Technologie &
-  Innovatiemanagement). Het projectproces van een ERP-implementatieteam past daar in principe bij.
-- Het oude formulier onderzoeksvoorstel (2021-2022) vraagt minimaal 15 medewerkers en "context van een technische
-  omgeving". JIS heeft 16 medewerkers en is een IT/ERP-dienstverlener: kort afstemmen met de module-eigenaar of dat past.
+## Afspraken over JIS als opdrachtgever
+- **Grootte (16 medewerkers): toegestaan.**
+- **IT/ERP-dienstverlener als omgeving: toegestaan**, mits het een echt TBK-project is, dus met de focus op **processen**
+  (ontwerpen, vernieuwen of optimaliseren).
+- De werkcontext hierboven is achtergrond. Het onderwerp wordt **vanaf nul** gezocht; JIS en de genoemde groeipijn
+  zijn een optie, geen vaststaand vertrekpunt.
