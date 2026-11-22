@@ -136,7 +136,8 @@ kwaliteitsverlies.
 
 **Onderzoeksdoel (intern doel).** Het uitvoeren van een ontwerpgericht onderzoek in opdracht van de directie van JIS
 Nederland, om binnen de afstudeerperiode van 18 weken (uiterlijk [INVULLEN: einddatum]) een gestandaardiseerde,
-schaalbare projectmethode voor het SAP Business One-team te ontwerpen en te valideren. De methode bestaat uit een
+schaalbare en door AI ondersteunde projectmethode voor implementaties en add-ons van het SAP Business One-team te
+ontwerpen en te valideren. De methode bestaat uit een
 kernproces met een lichte variant voor add-ons, vaste deliverables voor vastlegging en overdracht, 3–5 stuur-KPI's met
 streefwaarden en ten minste één uitgewerkte AI-toepassing. Het ontwerp wordt opgeleverd als adviesrapport met
 kosten-batenanalyse en implementatieplan, zodat JIS de uren- en planningsoverschrijdingen en het rework na go-live
