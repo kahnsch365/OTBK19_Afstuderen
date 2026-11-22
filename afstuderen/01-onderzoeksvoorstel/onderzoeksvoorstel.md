@@ -75,8 +75,8 @@ op een eigen manier, zonder vaste fasen, deliverables, overdrachtsmomenten of va
 klantafspraken. Projectkennis zit daardoor vooral in de hoofden van consultants.
 
 **Wat is de aanleiding?** Het team is in korte tijd gegroeid van 1 naar 6 consultants. Tegelijk worden urenoverschrijdingen,
-uitgestelde go-lives en rework na go-live gesignaleerd. [INVULLEN: kerncijfers uit de quickscan, bv. "bij x van de y
-recente projecten lagen de bestede uren gemiddeld z% boven de begroting".]
+uitgestelde go-lives en rework na go-live gesignaleerd. De omvang daarvan is nog niet gemeten; dat gebeurt in de
+Measure-fase van het onderzoek.
 
 **Wie heeft het probleem?** De directie is probleemeigenaar: zij is verantwoordelijk voor rendement en groei. De
 consultants hebben last van rework en lastige overdrachten, sales van begrotingen die niet kloppen en support van
@@ -141,7 +141,7 @@ ontwerpen en te valideren. De methode bestaat uit een
 kernproces met een lichte variant voor add-ons, vaste deliverables voor vastlegging en overdracht, 3–5 stuur-KPI's met
 streefwaarden en ten minste één uitgewerkte AI-toepassing. Het ontwerp wordt opgeleverd als adviesrapport met
 kosten-batenanalyse en implementatieplan, zodat JIS de uren- en planningsoverschrijdingen en het rework na go-live
-structureel kan terugdringen. De streefwaarden van de KPI's volgen uit de quickscan en de nulmeting.
+structureel kan terugdringen. De streefwaarden van de KPI's volgen uit de nulmeting in de Measure-fase.
 
 **Hoofdvraag.** Hoe moet een gestandaardiseerde, schaalbare en door AI ondersteunde projectmethode voor implementaties
 en add-ons van het SAP Business One-team van JIS Nederland eruitzien, zodat de uren- en planningsoverschrijdingen en
