@@ -5,47 +5,47 @@
 > `[INVULLEN: …]`-velden in vóór het indienen. Structuur en kopjes volgen het *Formulier Onderzoeksvoorstel
 > Technische Bedrijfskunde deeltijd*.
 
-**Datum:** [INVULLEN: datum van indienen]
+**Datum:** 22-11-2026
 
 ## 1. Gegevens student
 
 | Veld | Invulling |
 |---|---|
-| Naam student & studentnummer | Koen [INVULLEN: achternaam], [INVULLEN: studentnummer] |
-| Telefoonnummer | [INVULLEN: telefoonnummer] |
+| Naam student & studentnummer | Koen Scholten, 311496 |
+| Telefoonnummer | 0619520068 |
 | Opleiding | SPS TBK Enschede |
-| Afstudeerperiode | van: 1 januari 2027 t/m: 31 mei 2027 |
+| Afstudeerperiode | van: 01-01-2027 t/m: 31-05-2027 |
 | Propedeuse behaald | ja |
-| Max. 20 studiepunten openstaan | [INVULLEN: ja / nee, controleren in het studievoortgangsoverzicht] |
-| Openstaande vakken | [INVULLEN: openstaande vakken en verwachte resultaatdatum, of "geen"] |
+| Max. 20 studiepunten openstaan | ja |
+| Openstaande vakken | geen |
 
 ## 2. Gegevens bedrijf en bedrijfsbegeleider
 
 | Veld | Invulling |
 |---|---|
 | Naam bedrijf | JIS Nederland |
-| Naam opdrachtgever | [INVULLEN: naam], directeur/eigenaar JIS Nederland |
+| Naam opdrachtgever | T. Diepenmaat, directeur/eigenaar JIS Nederland |
 | Bedrijfssoort/sector | ICT-dienstverlening: verkoop en implementatie van ERP-systemen (Jeeves ERP, SAP Business One) en CRM (SuperOffice) |
 | Aantal medewerkers | 16 |
-| (Bezoek)adres | [INVULLEN: adres] |
-| Postcode | [INVULLEN: postcode] |
-| Plaats | [INVULLEN: plaats] |
+| (Bezoek)adres | Demmersweg 9-13 |
+| Postcode | 7556BN |
+| Plaats | Hengelo (OV) |
 | Land | Nederland |
-| Alg. telefoonnummer | [INVULLEN: telefoonnummer] |
-| Homepage | [INVULLEN: website] |
-| Alg. e-mail | [INVULLEN: algemeen e-mailadres] |
-| Postbusnr | [INVULLEN: postbus, of "n.v.t."] |
-| Postcode postbus | [INVULLEN: postcode, of "n.v.t."] |
-| Persoonlijke relatie | Ja, nl: de student werkt sinds oktober 2024 als consultant SAP Business One in het onderzochte team (zie 3d voor de maatregelen voor objectiviteit). |
-| Naam bedrijfsbegeleider | [INVULLEN: achternaam] (M / V: [INVULLEN]) |
-| Voorletters | [INVULLEN: voorletters] |
-| Roepnaam | [INVULLEN: roepnaam] |
-| Afdeling | [INVULLEN: afdeling, bv. directie of SAP Business One-team] |
-| Functie en opleidingsniveau | [INVULLEN: functie, bv. directeur/eigenaar of senior consultant; opleidingsniveau hbo/wo] |
+| Alg. telefoonnummer | 074-2552580 |
+| Homepage | www.jisnl.com |
+| Alg. e-mail | info@jisnl.com |
+| Postbusnr | n.v.t. |
+| Postcode postbus | n.v.t. |
+| Persoonlijke relatie | Ja, nl: ik werk sinds oktober 2024 als consultant SAP Business One in het onderzochte team (zie 3d voor de maatregelen voor objectiviteit). |
+| Naam bedrijfsbegeleider | Diepenmaat (M / V: [INVULLEN]) |
+| Voorletters | T. |
+| Roepnaam | Tonnie |
+| Afdeling | Directie |
+| Functie en opleidingsniveau | Directeur / WO |
 | Tijd voor begeleiding (min. 2 uur per week) | [INVULLEN: ja / nee] |
-| Telefoonnr. begeleider | [INVULLEN: telefoonnummer] |
-| Mobiel begeleider | [INVULLEN: mobiel nummer] |
-| E-mailadres begeleider | [INVULLEN: e-mailadres] |
+| Telefoonnr. begeleider | 074-2552580 |
+| Mobiel begeleider | 06-52344464 |
+| E-mailadres begeleider | Tonnie.diepenmaat@jisnl.com |
 
 ### Organisatie
 
@@ -134,7 +134,7 @@ met minder urenoverschrijding, minder uitstel van go-live en minder rework na go
 kwaliteitsverlies.
 
 **Onderzoeksdoel (intern doel).** Het uitvoeren van een ontwerpgericht onderzoek in opdracht van de directie van JIS
-Nederland, om binnen de afstudeerperiode van 18 weken (uiterlijk 31 mei 2027) een gestandaardiseerde,
+Nederland, om binnen de afstudeerperiode van 18 weken (uiterlijk 31-05-2027) een gestandaardiseerde,
 schaalbare en door AI ondersteunde projectmethode voor implementaties en add-ons van het SAP Business One-team te
 ontwerpen en te valideren. De methode bestaat uit een
 kernproces met een lichte variant voor add-ons, vaste deliverables voor vastlegging en overdracht, 3–5 stuur-KPI's met
@@ -144,7 +144,7 @@ structureel kan terugdringen. De streefwaarden van de KPI's volgen uit de nulmet
 
 **Hoofdvraag.** Hoe moet een gestandaardiseerde, schaalbare en door AI ondersteunde projectmethode voor implementaties
 en add-ons van het SAP Business One-team van JIS Nederland eruitzien, zodat de uren- en planningsoverschrijdingen en
-het rework na go-live afnemen, en hoe kan deze vóór 31 mei 2027 als gevalideerd ontwerp met implementatieplan
+het rework na go-live afnemen, en hoe kan deze vóór 31-05-2027 als gevalideerd ontwerp met implementatieplan
 worden opgeleverd?
 
 **Deelvragen.** Elke deelvraag hoort bij een fase van DMADV en bouwt voort op de vorige.
@@ -182,7 +182,7 @@ en de nulmeting vast, Analyze de oorzaken en ontwerpalternatieven, en Verify val
 | 4b (Design) | Literatuur over AI in kenniswerk; inventarisatie van tools en het beleid van JIS | Afwegingsmatrix (nut, risico, kosten); TAM (Davis, 1989); toets aan de AVG | Uitgewerkte AI-toepassing(en) met randvoorwaarden |
 | 5 (Verify) | Validatiesessie met consultants en directie; droogtest op een afgerond project; AI-test met een geanonimiseerd voorbeeld | Toets aan de CTQ's (member check); kosten-batenanalyse; verandermodel (Kotter, 1996) | Gevalideerd ontwerp, kosten-batenanalyse en implementatieplan |
 
-**Betrouwbaarheid en validiteit.** Omdat de student het eigen team onderzoekt, worden interviews anoniem verwerkt en
+**Betrouwbaarheid en validiteit.** Omdat ik mijn eigen team onderzoek, worden interviews anoniem verwerkt en
 ligt de focus op het proces, niet op personen. Bevindingen worden getrianguleerd (data, interviews en dossiers), via
 member checks voorgelegd aan de geïnterviewden en besproken met de bedrijfsbegeleider (peer debriefing). Een
 interviewprotocol en een onderzoekslogboek maken het onderzoek herhaalbaar. Beperkingen: klanten worden niet
@@ -190,7 +190,7 @@ geïnterviewd (hun perspectief komt uit supporttickets, dossiers en sales) en he
 klein. Add-ons en kleine uitbreidingen vergroten het aantal cases; de analyse is vooral kwalitatief. Klantgegevens gaan
 niet zonder toestemming in externe AI-tools.
 
-**Haalbaarheid in 18 weken.** Eén student voert het onderzoek uit, deels in werktijd, met bestaande data, interne
+**Haalbaarheid in 18 weken.** Ik voer het onderzoek alleen uit, deels in werktijd, met bestaande data, interne
 bronnen en één kernproduct. De invoering valt erbuiten, Verify is een validatie (geen pilot) en AI is één afgebakende
 deelvraag (4b). Globale fasering: week 1–3 onderzoeksplan; week 3–5
 Define; week 5–7 Measure; week 7–9 Analyze; week 9–12 Design; week 12–14 Verify, kosten-baten en implementatieplan;
@@ -212,9 +212,9 @@ Yang, K., & El-Haik, B. (2009). *Design for Six Sigma: A roadmap for product dev
 
 #### Verantwoording AI-gebruik
 
-Bij het structureren en formuleren van dit voorstel is generatieve AI gebruikt (Claude; Anthropic, 2026). De student
-heeft de inhoud gecontroleerd, aangevuld en is verantwoordelijk voor de tekst. Gebruik van AI wordt in een logboek
-bijgehouden.
+Bij het structureren en formuleren van dit voorstel is generatieve AI gebruikt (Claude; Anthropic, 2026). Ik heb
+de inhoud gecontroleerd en aangevuld, en ben verantwoordelijk voor de tekst. Het gebruik van AI houd ik bij in een
+logboek.
 
 Anthropic. (2026). *Claude* [Groot taalmodel]. https://claude.ai
 
