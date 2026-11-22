@@ -37,110 +37,117 @@
 | Postbusnr | n.v.t. |
 | Postcode postbus | n.v.t. |
 | Persoonlijke relatie | Ja, nl: ik werk sinds oktober 2024 als consultant SAP Business One in het onderzochte team (zie 3d voor de maatregelen voor objectiviteit). |
-| Naam bedrijfsbegeleider | Diepenmaat (M / V: [INVULLEN]) |
+| Naam bedrijfsbegeleider | Tonnie Diepenmaat (M) |
 | Voorletters | T. |
 | Roepnaam | Tonnie |
 | Afdeling | Directie |
 | Functie en opleidingsniveau | Directeur / WO |
-| Tijd voor begeleiding (min. 2 uur per week) | [INVULLEN: ja / nee] |
+| Tijd voor begeleiding (min. 2 uur per week) | ja |
 | Telefoonnr. begeleider | 074-2552580 |
 | Mobiel begeleider | 06-52344464 |
 | E-mailadres begeleider | Tonnie.diepenmaat@jisnl.com |
 
 ### Organisatie
 
-**Onderzoeksgebied.** JIS Nederland verkoopt en implementeert ERP-systemen en heeft twee ERP-teams: Jeeves ERP en
-SAP Business One. Daarnaast verkoopt JIS sinds kort het CRM-systeem SuperOffice, als aparte productlijn. Het
-onderzoek richt zich op het SAP Business One-team (6 consultants) en het projectproces dat dit team uitvoert: van de overdracht door sales, via vooranalyse, inrichting, datamigratie, testen en go-live, tot de
-overdracht naar nazorg. Directie, sales en support zijn betrokken als stakeholders. Het Jeeves-team, SuperOffice
-en het verkoopproces vallen buiten het onderzoek. Een organogram met het onderzoeksgebied is opgenomen in bijlage 1.
+**Onderzoeksgebied.** JIS Nederland verkoopt en implementeert ERP-systemen. Daarvoor zijn er twee teams: één voor
+Jeeves ERP en één voor SAP Business One. Sinds kort verkoopt JIS ook het CRM-systeem SuperOffice, als aparte
+productlijn. Mijn onderzoek gaat over het SAP Business One-team, waarin zes consultants werken, en over de manier
+waarop dit team projecten uitvoert. Dat proces begint bij de overdracht vanuit sales en loopt via vooranalyse,
+inrichting, datamigratie en testen naar de go-live en de overdracht naar nazorg. Directie, sales en support betrek ik
+als stakeholders. Het Jeeves-team, SuperOffice en het verkoopproces zelf onderzoek ik niet. In bijlage 1 staat een
+organogram waarin het onderzoeksgebied is aangegeven.
 
-**Technische omgeving.** Een ERP-systeem is een technisch informatiesysteem waarin de primaire processen van een
-bedrijf worden ingericht: inkoop, voorraad, productie, verkoop en financiën. De klanten van JIS zijn vooral productie-
-en handelsbedrijven. Het onderzochte proces is het implementatieproces zelf: een technisch-bedrijfskundig projectproces
-waarin systeemconfiguratie, datamigratie, koppelingen, testen en het inrichten van de logistieke en productieprocessen
-van de klant samenkomen. De opdracht wordt daarmee uitgevoerd in de context van een technische omgeving.
+**Technische omgeving.** In een ERP-systeem richt een bedrijf zijn primaire processen in, zoals inkoop, voorraad,
+productie, verkoop en financiën. De klanten van JIS zijn vooral productie- en handelsbedrijven. Wat ik onderzoek is
+het implementatieproces zelf. In dat proces komen systeemconfiguratie, datamigratie, koppelingen en testen samen met
+het inrichten van de logistieke en productieprocessen van de klant. Het is dus een technisch-bedrijfskundig
+projectproces, en de opdracht speelt zich af in een technische omgeving.
 
 ## 3. De opdracht / het uit te voeren onderzoek
 
 ### 3a. Probleemstelling
 
-Het SAP Business One-team van JIS Nederland voert alle klantprojecten voor dit ERP-pakket uit: volledige
-implementaties, add-ons en kleinere uitbreidingen (zie onderdeel 2). De probleemstelling langs de 6W (Leen & Mertens,
-2017):
+Het SAP Business One-team doet alle klantprojecten voor dit pakket. Dat zijn volledige implementaties, maar ook
+add-ons en kleinere uitbreidingen. Hieronder beschrijf ik het probleem aan de hand van de 6W-methode (Leen & Mertens,
+2017).
 
-**Wat is het probleem?** Het SAP Business One-team heeft geen gestandaardiseerd projectproces. Iedere consultant werkt
-op een eigen manier, zonder vaste fasen, deliverables, overdrachtsmomenten of vaste vastlegging van inrichtingskeuzes en
-klantafspraken. Projectkennis zit daardoor vooral in de hoofden van consultants.
+**Wat is het probleem?** Het team heeft geen standaard projectproces. Elke consultant werkt op zijn of haar eigen
+manier. Er zijn geen vaste fasen, deliverables of overdrachtsmomenten, en inrichtingskeuzes en klantafspraken worden
+niet op een vaste manier vastgelegd. Veel projectkennis zit daardoor alleen in het hoofd van de consultant.
 
-**Wat is de aanleiding?** Het team is in korte tijd gegroeid van 1 naar 6 consultants. Tegelijk worden urenoverschrijdingen,
-uitgestelde go-lives en rework na go-live gesignaleerd. De omvang daarvan is nog niet gemeten; dat gebeurt in de
-Measure-fase van het onderzoek.
+**Wat is de aanleiding?** Het team is in korte tijd gegroeid van één naar zes consultants. In dezelfde periode zien we
+dat uren worden overschreden, go-lives worden uitgesteld en er na de go-live nog veel herstelwerk (rework) nodig is.
+Hoe groot dat precies is, is nog niet gemeten. Dat doe ik in de Measure-fase.
 
-**Wie heeft het probleem?** De directie is probleemeigenaar: zij is verantwoordelijk voor rendement en groei. De
-consultants hebben last van rework en lastige overdrachten, sales van begrotingen die niet kloppen en support van
-meldingen na go-live. Klanten merken het indirect, via uitstel en fouten.
+**Wie heeft het probleem?** De directie is probleemeigenaar, omdat zij verantwoordelijk is voor rendement en groei.
+Maar ook anderen merken het. Consultants hebben last van rework en lastige overdrachten. Sales krijgt te maken met
+begrotingen die niet kloppen, en support met meldingen na de go-live. Klanten merken het indirect, doordat projecten
+uitlopen of er fouten in zitten.
 
-**Wanneer is het ontstaan?** Met de groei van het team. Wat met één consultant informeel werkte, werkt met zes
-consultants en meer parallelle projecten niet meer.
+**Wanneer is het ontstaan?** Met de groei van het team. Met één consultant kon alles informeel. Met zes consultants
+en meer projecten tegelijk werkt dat niet meer.
 
-**Waarom is het een probleem?** Overschrijdingen leveren niet-factureerbare uren op. Daarnaast nemen de voorspelbaarheid
-en de klanttevredenheid af, is het team kwetsbaar bij uitval of overdracht van een consultant, en remt dit de verdere
-groei van het team.
+**Waarom is het een probleem?** Uren die boven het budget uitkomen zijn vaak niet te factureren. Projecten worden
+minder voorspelbaar en klanten minder tevreden. Daarnaast is het team kwetsbaar als een consultant uitvalt of een
+project moet overdragen. Zo staat het probleem verdere groei van het team in de weg.
 
-**Waar doet het probleem zich voor?** In het projectproces van het SAP Business One-team: van de overdracht door sales,
-via vooranalyse, inrichting en testen, tot go-live en de overdracht naar nazorg.
+**Waar doet het probleem zich voor?** In het projectproces van het SAP Business One-team, van de overdracht door sales
+tot de overdracht naar nazorg.
 
-Het is daarmee een procesvraagstuk in een technische omgeving, met het (her)ontwerpen van een projectproces als kern.
+Het gaat dus om een procesvraagstuk in een technische omgeving. De kern is het (her)ontwerpen van een projectproces.
 
 ### 3b. Opdrachtomschrijving
 
 **Werktitel.** *Van ieder z'n eigen aanpak naar een standaard projectproces: ontwerp van een schaalbare,
 AI-ondersteunde implementatiemethode voor het SAP Business One-team van JIS Nederland.*
 
-De opdracht is het ontwerpen van een gestandaardiseerde, schaalbare projectmethode voor het SAP Business One-team. De
-methode bestaat uit:
+Mijn opdracht is een standaard projectmethode te ontwerpen voor het SAP Business One-team, die ook werkt als het team
+verder groeit. De methode moet bestaan uit:
 
-- één kernproces met vaste fasen, deliverables, templates/checklists en overdrachtsmomenten;
-- een lichte variant voor add-ons en kleine uitbreidingen, met een projectclassificatie die per projecttype bepaalt welke
+- één kernproces met vaste fasen, deliverables, templates of checklists en overdrachtsmomenten;
+- een lichtere variant voor add-ons en kleine uitbreidingen. Een projectclassificatie bepaalt per type project welke
   deliverables verplicht zijn;
-- 3–5 stuur-KPI's (uren t.o.v. budget, go-live t.o.v. planning, rework na go-live);
-- ten minste één AI-toepassing die vastlegging, kennisborging en overdracht ondersteunt.
+- drie tot vijf KPI's om op te sturen, zoals bestede uren tegenover het budget, de werkelijke go-live tegenover de
+  planning en de hoeveelheid rework na go-live;
+- minstens één toepassing van AI die helpt bij het vastleggen, borgen en overdragen van projectkennis.
 
-Het resultaat is een gevalideerd ontwerp met kosten-batenanalyse en implementatieplan: een aanzet tot implementatie.
-De invoering zelf valt buiten de afstudeerperiode. Ook buiten de scope vallen het Jeeves-team, het verkoopproces
-(behalve de overdracht naar de consultant), support als proces (alleen databron) en het bouwen van een eigen AI-tool.
+Ik lever een gevalideerd ontwerp op, met een kosten-batenanalyse en een implementatieplan. Daarmee is de invoering
+voorbereid, maar de invoering zelf valt buiten mijn afstudeerperiode. Verder vallen buiten de scope: het Jeeves-team,
+het CRM-pakket (SuperOffice), het verkoopproces (behalve de overdracht naar de consultant), support als proces (dat
+gebruik ik alleen als databron) en het bouwen of beheren van een eigen AI-tool.
 
-De opdracht is **multidisciplinair**. Ze combineert procesmanagement (procesontwerp, standaardisatie, KPI's),
-projectmanagement (fasering, begroting, ERP-implementatiemethoden), kennismanagement (borging en overdracht van
-klantkennis), technologie en innovatie (ERP en AI in het kenniswerk van consultants) en mensen in organisaties
-(draagvlak, weerstand en verandering: standaardisatie raakt de professionele autonomie van consultants).
+De opdracht is **multidisciplinair**, omdat er meerdere vakgebieden in samenkomen. Procesmanagement gaat over het
+ontwerpen en standaardiseren van het proces en het opstellen van KPI's. Projectmanagement gaat over fasering, begroting
+en bestaande methoden voor ERP-implementaties. Kennismanagement is nodig om klantkennis te borgen en over te dragen.
+Technologie en innovatie komt terug in de inzet van ERP en AI bij het werk van consultants. Tot slot speelt het
+vakgebied mensen in organisaties een rol: standaardiseren raakt aan de vrijheid die consultants nu hebben, dus
+draagvlak en weerstand zijn belangrijk.
 
-De opdracht is **innovatief**: JIS heeft nog geen projectmethode, de methode schaalt mee met het projecttype en zet
-generatieve AI in bij het kenniswerk van consultants, met de AVG en de vertrouwelijkheid van klantdata als harde
-randvoorwaarde.
+De opdracht is **innovatief**. JIS heeft nog geen projectmethode, de methode past zich aan het type project aan en
+generatieve AI wordt ingezet bij het werk van consultants. Daarbij gelden de AVG en de vertrouwelijkheid van
+klantdata als harde voorwaarde.
 
-De opdracht is **tactisch/operationeel** van aard. Ze gaat over de inrichting en besturing van het primaire
-projectproces: hoe projecten worden uitgevoerd, overgedragen en gestuurd. Er is een strategisch raakvlak: de methode
-moet het team in staat stellen te groeien zonder kwaliteitsverlies.
+De opdracht is **tactisch/operationeel** van aard. Het gaat om hoe projecten worden uitgevoerd, overgedragen en
+gestuurd, dus om de inrichting en besturing van het primaire proces. Er is wel een strategische kant: de methode moet
+het team in staat stellen te groeien zonder dat de kwaliteit daalt.
 
-De **technische omgeving** is de implementatie van ERP-systemen, waarin de logistieke, productie- en financiële
+De **technische omgeving** is het implementeren van ERP-systemen, waarbij de logistieke, productie- en financiële
 processen van klanten worden ingericht (zie onderdeel 2, Organisatie).
 
 ### 3c. Doelstelling, onderzoeksvraag en deelvragen
 
-**Doel van het bedrijf (extern doel).** De voorspelbaarheid en kwaliteit van SAP Business One-projecten verbeteren,
-met minder urenoverschrijding, minder uitstel van go-live en minder rework na go-live, zodat het team kan groeien zonder
-kwaliteitsverlies.
+**Doel van het bedrijf (extern doel).** JIS wil dat SAP Business One-projecten voorspelbaarder en beter verlopen, met
+minder urenoverschrijding, minder uitgestelde go-lives en minder rework na go-live. Zo kan het team groeien zonder dat
+de kwaliteit eronder lijdt.
 
-**Onderzoeksdoel (intern doel).** Het uitvoeren van een ontwerpgericht onderzoek in opdracht van de directie van JIS
-Nederland, om binnen de afstudeerperiode van 18 weken (uiterlijk 31-05-2027) een gestandaardiseerde,
-schaalbare en door AI ondersteunde projectmethode voor implementaties en add-ons van het SAP Business One-team te
-ontwerpen en te valideren. De methode bestaat uit een
-kernproces met een lichte variant voor add-ons, vaste deliverables voor vastlegging en overdracht, 3–5 stuur-KPI's met
-streefwaarden en ten minste één uitgewerkte AI-toepassing. Het ontwerp wordt opgeleverd als adviesrapport met
-kosten-batenanalyse en implementatieplan, zodat JIS de uren- en planningsoverschrijdingen en het rework na go-live
-structureel kan terugdringen. De streefwaarden van de KPI's volgen uit de nulmeting in de Measure-fase.
+**Onderzoeksdoel (intern doel).** In opdracht van de directie van JIS Nederland voer ik een ontwerpgericht onderzoek
+uit. Het doel is om binnen de afstudeerperiode van 18 weken (uiterlijk 31-05-2027) een gestandaardiseerde, schaalbare
+en door AI ondersteunde projectmethode te ontwerpen en te valideren voor implementaties en add-ons van het SAP
+Business One-team. De methode bestaat uit een kernproces met een lichte variant voor add-ons, vaste deliverables voor
+vastlegging en overdracht, drie tot vijf KPI's met streefwaarden en minstens één uitgewerkte AI-toepassing. Ik lever
+het ontwerp op in een adviesrapport met kosten-batenanalyse en implementatieplan, zodat JIS de uren- en
+planningsoverschrijdingen en het rework na go-live structureel kan terugdringen. De streefwaarden van de KPI's bepaal ik
+op basis van de nulmeting in de Measure-fase.
 
 **Hoofdvraag.** Hoe moet een gestandaardiseerde, schaalbare en door AI ondersteunde projectmethode voor implementaties
 en add-ons van het SAP Business One-team van JIS Nederland eruitzien, zodat de uren- en planningsoverschrijdingen en
@@ -149,29 +156,30 @@ worden opgeleverd?
 
 **Deelvragen.** Elke deelvraag hoort bij een fase van DMADV en bouwt voort op de vorige.
 
-**1. (Define)** Hoe verloopt het projectproces nu per projecttype (volledige implementatie, add-on, kleine uitbreiding), van de overdracht door sales tot de overdracht naar nazorg, en welke stakeholders en belangen spelen daarbij een rol?
+**1. (Define)** Hoe verloopt het projectproces nu per type project (volledige implementatie, add-on, kleine uitbreiding), van de overdracht door sales tot de overdracht naar nazorg, en welke stakeholders en belangen spelen daarbij een rol?
 
-**2. (Measure)** Waaraan moet een standaardmethode volgens de stakeholders voldoen (CTQ's), en hoe presteert het huidige proces op uren t.o.v. budget, go-live t.o.v. planning en rework na go-live?
+**2. (Measure)** Aan welke eisen moet een standaardmethode volgens de stakeholders voldoen (CTQ's), en hoe scoort het huidige proces op uren ten opzichte van het budget, go-live ten opzichte van de planning en rework na go-live?
 
-**3. (Analyze)** Welke procesoorzaken verklaren de afwijkingen, en welke ontwerpalternatieven (bv. SAP Activate-light, faseringsmodellen, checklistgedreven werken) passen bij de eisen?
+**3. (Analyze)** Welke oorzaken in het proces verklaren de afwijkingen, en welke ontwerpalternatieven passen bij de eisen, bijvoorbeeld een lichte vorm van SAP Activate, een faseringsmodel of werken met checklists?
 
-**4. (Design)** Hoe ziet de methode eruit: het kernproces, de lichte variant, de deliverables, de templates, de KPI's met streefwaarden en de rolverdeling tussen sales en consultant?
+**4. (Design)** Hoe ziet de methode eruit: het kernproces, de lichte variant, de deliverables, de templates, de KPI's met streefwaarden en de taakverdeling tussen sales en consultant?
 
-**4b. (Design)** Welke AI-toepassingen ondersteunen de vastlegging, kennisborging en overdracht binnen de methode, binnen de randvoorwaarden van de AVG en het beleid van JIS?
+**4b. (Design)** Welke AI-toepassingen helpen bij het vastleggen, borgen en overdragen van kennis binnen de methode, binnen de grenzen van de AVG en het beleid van JIS?
 
-**5. (Verify)** In hoeverre voldoet het ontwerp aan de eisen (CTQ's) en wordt het door de stakeholders gedragen, en wat zijn de kosten, de baten en de stappen voor invoering?
+**5. (Verify)** In hoeverre voldoet het ontwerp aan de eisen (CTQ's), staan de stakeholders erachter, en wat zijn de kosten, de baten en de stappen voor invoering?
 
-Het vraagstuk vraagt om bedrijfskundig onderzoek: het probleem is nog niet in kaart gebracht en er is geen
-standaardoplossing (bestaande methoden zoals SAP Activate zijn bedoeld voor grotere projecten en teams). Een passende
-methode vraagt een systematische analyse van data en interviews, een afweging van alternatieven en vakliteratuur uit
-meerdere vakgebieden.
+Voor dit vraagstuk is bedrijfskundig onderzoek nodig. Het probleem is nog niet in kaart gebracht en er ligt geen
+kant-en-klare oplossing klaar. Bestaande methoden zoals SAP Activate zijn bedoeld voor grotere projecten en teams. Om
+tot een passende methode te komen moet ik data en interviews systematisch analyseren, alternatieven tegen elkaar
+afwegen en literatuur uit verschillende vakgebieden gebruiken.
 
 ### 3d. Onderzoeksontwerp
 
-**Type onderzoek en procesmodel.** Het onderzoek is een ontwerpgericht praktijkonderzoek (Leen & Mertens, 2017),
-gestructureerd met DMADV uit Design for Six Sigma (Yang & El-Haik, 2009). DMADV past beter dan DMAIC, omdat er geen
-bestaand standaardproces is om te verbeteren. Er moet een nieuw proces worden ontworpen. Measure legt de eisen (CTQ's)
-en de nulmeting vast, Analyze de oorzaken en ontwerpalternatieven, en Verify valideert het ontwerp.
+**Type onderzoek en procesmodel.** Ik doe een ontwerpgericht praktijkonderzoek (Leen & Mertens, 2017) en volg
+daarbij de DMADV-cyclus uit Design for Six Sigma (Yang & El-Haik, 2009). Ik kies voor DMADV en niet voor DMAIC, omdat
+er nog geen standaardproces is dat verbeterd kan worden. Er moet een nieuw proces komen. In de Measure-fase leg ik de
+eisen (CTQ's) en de nulmeting vast. In Analyze zoek ik de oorzaken en de mogelijke ontwerpen, en in Verify toets ik
+het ontwerp.
 
 | Deelvraag (fase) | Dataverzameling | Analyse | Resultaat |
 |---|---|---|---|
@@ -182,19 +190,27 @@ en de nulmeting vast, Analyze de oorzaken en ontwerpalternatieven, en Verify val
 | 4b (Design) | Literatuur over AI in kenniswerk; inventarisatie van tools en het beleid van JIS | Afwegingsmatrix (nut, risico, kosten); TAM (Davis, 1989); toets aan de AVG | Uitgewerkte AI-toepassing(en) met randvoorwaarden |
 | 5 (Verify) | Validatiesessie met consultants en directie; droogtest op een afgerond project; AI-test met een geanonimiseerd voorbeeld | Toets aan de CTQ's (member check); kosten-batenanalyse; verandermodel (Kotter, 1996) | Gevalideerd ontwerp, kosten-batenanalyse en implementatieplan |
 
-**Betrouwbaarheid en validiteit.** Omdat ik mijn eigen team onderzoek, worden interviews anoniem verwerkt en
-ligt de focus op het proces, niet op personen. Bevindingen worden getrianguleerd (data, interviews en dossiers), via
-member checks voorgelegd aan de geïnterviewden en besproken met de bedrijfsbegeleider (peer debriefing). Een
-interviewprotocol en een onderzoekslogboek maken het onderzoek herhaalbaar. Beperkingen: klanten worden niet
-geïnterviewd (hun perspectief komt uit supporttickets, dossiers en sales) en het aantal volledige implementaties is
-klein. Add-ons en kleine uitbreidingen vergroten het aantal cases; de analyse is vooral kwalitatief. Klantgegevens gaan
-niet zonder toestemming in externe AI-tools.
+**Betrouwbaarheid en validiteit.** Ik onderzoek mijn eigen team. Daarom verwerk ik interviews anoniem en kijk ik naar
+het proces, niet naar personen. Bevindingen controleer ik vanuit meerdere bronnen: data, interviews en dossiers. Ik leg
+ze ook voor aan de mensen die ik heb geïnterviewd (member check) en bespreek ze met mijn bedrijfsbegeleider. Met een
+interviewprotocol en een onderzoekslogboek is het onderzoek te herhalen. Het onderzoek heeft ook beperkingen. Klanten
+interview ik niet; hun kant van het verhaal haal ik uit supporttickets, dossiers en gesprekken met sales. Verder is het
+aantal volledige implementaties klein. Door ook add-ons en kleine uitbreidingen mee te nemen heb ik meer cases, maar de
+analyse blijft vooral kwalitatief. Klantgegevens gaan nooit zonder toestemming naar externe AI-tools.
 
-**Haalbaarheid in 18 weken.** Ik voer het onderzoek alleen uit, deels in werktijd, met bestaande data, interne
-bronnen en één kernproduct. De invoering valt erbuiten, Verify is een validatie (geen pilot) en AI is één afgebakende
-deelvraag (4b). Globale fasering: week 1–3 onderzoeksplan; week 3–5
-Define; week 5–7 Measure; week 7–9 Analyze; week 9–12 Design; week 12–14 Verify, kosten-baten en implementatieplan;
-week 15 overzicht beroepsproducten; week 15–18 adviesrapport, portfolio en reflectieverslag.
+**Haalbaarheid in 18 weken.** Ik doe het onderzoek alleen, en grotendeels in mijn eigen tijd. Daarvoor plan ik vaste
+momenten in het weekend. Interviews, sessies met collega's en het ophalen van bedrijfsdata doe ik in werktijd. Ik werk
+met bestaande data en interne bronnen en lever één kernproduct op. De invoering hoort er niet bij, Verify is een
+validatie en geen pilot, en AI is beperkt tot één deelvraag (4b). Mijn globale planning:
+
+- week 1–3: onderzoeksplan;
+- week 3–5: Define;
+- week 5–7: Measure;
+- week 7–9: Analyze;
+- week 9–12: Design;
+- week 12–14: Verify, kosten-batenanalyse en implementatieplan;
+- week 15: overzicht beroepsproducten;
+- week 15–18: adviesrapport, portfolio en reflectieverslag.
 
 #### Bronnen
 
@@ -212,9 +228,9 @@ Yang, K., & El-Haik, B. (2009). *Design for Six Sigma: A roadmap for product dev
 
 #### Verantwoording AI-gebruik
 
-Bij het structureren en formuleren van dit voorstel is generatieve AI gebruikt (Claude; Anthropic, 2026). Ik heb
-de inhoud gecontroleerd en aangevuld, en ben verantwoordelijk voor de tekst. Het gebruik van AI houd ik bij in een
-logboek.
+Bij het structureren en formuleren van dit voorstel heb ik Claude gebruikt (Anthropic, 2026). De inhoud is van mij:
+ik heb alles gecontroleerd, aangevuld en herschreven, en ik ben verantwoordelijk voor de tekst. Hoe ik AI gebruik,
+houd ik bij in een logboek.
 
 Anthropic. (2026). *Claude* [Groot taalmodel]. https://claude.ai
 

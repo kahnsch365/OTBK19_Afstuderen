@@ -58,7 +58,7 @@ Toetsing van [`onderzoeksvoorstel.md`](onderzoeksvoorstel.md) / `onderzoeksvoors
 | Zelfstandig uitvoerbaar door één student in een half jaar | 3d (Haalbaarheid in 18 weken) | ✅ |
 | Minimaal 15 medewerkers | 2 (Aantal medewerkers: 16) | ✅ |
 | Persoonlijke relatie met het bedrijf benoemd | 2 (Ja, consultant SAP B1 sinds oktober 2024); 3d (maatregelen objectiviteit) | ✅ |
-| Bedrijfsbegeleider minimaal 2 uur per week beschikbaar | 2 (Tijd voor begeleiding) | ⚠️ afspreken met begeleider |
+| Bedrijfsbegeleider minimaal 2 uur per week beschikbaar | 2 (Tijd voor begeleiding) | ✅ ja ingevuld (nog bevestigen in het gesprek) |
 | Gesproken met minimaal twee vertegenwoordigers (begeleider en probleemeigenaar) | [`gesprek-opdrachtgever.md`](gesprek-opdrachtgever.md) | ⚠️ gesprek voeren |
 
 ## Overige voorwaarden (rubric "Voldoet aan voorwaarden")
